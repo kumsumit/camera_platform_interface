@@ -1,7 +1,7 @@
 plugin_platform_interface
 3.3
-file:///home/sumit/.pub-cache/git/plugin_platform_interface-0258f99fc7505eebfc1332998552f585cb27751d/
-file:///home/sumit/.pub-cache/git/plugin_platform_interface-0258f99fc7505eebfc1332998552f585cb27751d/lib/
+file:///home/sumit/.pub-cache/git/plugin_platform_interface-5b87c0b21d7dfa69ff1b00993bc6f895ab5b0de5/
+file:///home/sumit/.pub-cache/git/plugin_platform_interface-5b87c0b21d7dfa69ff1b00993bc6f895ab5b0de5/lib/
 async
 3.4
 file:///home/sumit/.pub-cache/hosted/pub.dev/async-2.12.0/
@@ -71,9 +71,9 @@ stream_channel
 file:///home/sumit/.pub-cache/hosted/pub.dev/stream_channel-2.1.4/
 file:///home/sumit/.pub-cache/hosted/pub.dev/stream_channel-2.1.4/lib/
 stream_transform
-2.14
-file:///home/sumit/.pub-cache/hosted/pub.dev/stream_transform-2.1.0/
-file:///home/sumit/.pub-cache/hosted/pub.dev/stream_transform-2.1.0/lib/
+3.1
+file:///home/sumit/.pub-cache/hosted/pub.dev/stream_transform-2.1.1/
+file:///home/sumit/.pub-cache/hosted/pub.dev/stream_transform-2.1.1/lib/
 string_scanner
 3.1
 file:///home/sumit/.pub-cache/hosted/pub.dev/string_scanner-1.4.1/
@@ -96,8 +96,8 @@ file:///home/sumit/.pub-cache/hosted/pub.dev/vm_service-14.3.1/
 file:///home/sumit/.pub-cache/hosted/pub.dev/vm_service-14.3.1/lib/
 web
 3.4
-file:///home/sumit/.pub-cache/hosted/pub.dev/web-1.0.0/
-file:///home/sumit/.pub-cache/hosted/pub.dev/web-1.0.0/lib/
+file:///home/sumit/.pub-cache/hosted/pub.dev/web-1.1.0/
+file:///home/sumit/.pub-cache/hosted/pub.dev/web-1.1.0/lib/
 camera_platform_interface
 3.4
 file:///home/sumit/StudioProjects/packages/packages/camera/camera_platform_interface/
